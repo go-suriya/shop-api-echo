@@ -26,9 +26,9 @@ go.work
 /.vscode
 /.idea
 /app
-config.yml
 /tmp
 /.air.toml
-./config/config.yaml
+
+config.yml
 
 # End of https://www.toptal.com/developers/gitignore/api/go
